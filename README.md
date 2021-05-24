@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [Aman Verma](https://amanverma.netlify.app/), a passionate self-taught Web eveloper from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Aman Verma](https://amanverma.netlify.app/), a passionate self-taught Web Developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -52,18 +52,16 @@ JSON         8 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> --> -->
 
-🚧 **My Todoist Stats:**
+<!-- 🚧 **My Todoist Stats:**
 
 <!-- TODO-IST:START -->
 
 🏆 10 Karma Points  
 🌸 Completed 0 tasks today  
 ✅ Completed 20 tasks so far  
-⏳ Longest streak is 3 days
+⏳ Longest streak is 3 days -->
 
 <!-- TODO-IST:END -->
 

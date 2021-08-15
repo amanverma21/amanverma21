@@ -9,9 +9,7 @@
 <a href="https://www.linkedin.com/in/amanvermain/">
   <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/aif6tgstqz893npuj300zn0r3">
-  <img align="left" alt="Aman's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amanverma21.amanverma21)
 

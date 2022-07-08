@@ -1,68 +1,43 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
-<a href="https://www.facebook.com/vermaamanin/">
-  <img align="left" alt="Aman's Faebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://twitter.com/VermaAman_IN">
-  <img align="left" alt="Aman Verma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/amanvermain/">
-  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align="center">Hi 🙂, I'm Aman Verma</h1>
+<h3 align="center">Pre-Final Year UG Student @ IIIT Surat</h3>
 
+<h4 align="center"> Having knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices.</h4>
 
-![](https://visitor-badge.glitch.me/badge?page_id=amanverma21.amanverma21)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=amanverma21.amanverma21) -->
 
-<br />
+📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
+- ✔  My Digital Protfolio :  http://aman-verma.herokuapp.com/
+- 💻 My CodeChef Profile : https://www.codechef.com/users/amanverma21
+- 💻 My GeeksforGeeks Profile : https://auth.geeksforgeeks.org/user/averma2k19/profile
+- 💻 My Codeforces Profile : https://codeforces.com/profile/amanverma21
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/amanvermain/
 
-Hi, I'm [Aman Verma](https://amanverma.netlify.app/), a second-year student at Indian Institute of Information Technology, Surat.
+💻 *Languages and Tools:* 🛠️<br>
 
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Aman Verma](averma2k19@gmail.com);
-- 📝 [Resume-To be uploaded soon]()
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
-
-<!-- 📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-
-<!-- ```text
-JavaScript   17 hrs 47 mins  ████████████████▒░░░░░░░░   65.99 %
-JSX          6 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-SCSS         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-``` -->
-
-<!--END_SECTION:waka-->
+## 🏆 Github Status
 
 
 
-<!-- 🚧 **My Todoist Stats:**
 
-<!-- TODO-IST:START -->
+<img  src="https://github-readme-stats.vercel.app/api?username=amanverma21&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma21&theme=dark" width="48%" >
+<br>
 
-<!-- 🏆 10 Karma Points  
-🌸 Completed 0 tasks today  
-✅ Completed 20 tasks so far  
-⏳ Longest streak is 3 days --> -->
-
-<!-- TODO-IST:END -->
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amanverma21&show_icons=true&theme=gotham" alt="amanverma21" />

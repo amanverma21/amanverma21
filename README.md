@@ -8,8 +8,8 @@
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- ✔  My Digital Protfolio :  http://aman-verma.herokuapp.com/
-- 💻 My CodeChef Profile : https://www.codechef.com/users/amanverma21
+- ✔  My Digital Protfolio :  https://amanverma21.vercel.app/
+- 💻 My Leetcode Profile : https://leetcode.com/amanverma21/
 - 💻 My GeeksforGeeks Profile : https://auth.geeksforgeeks.org/user/averma2k19/profile
 - 💻 My Codeforces Profile : https://codeforces.com/profile/amanverma21
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/amanvermain/

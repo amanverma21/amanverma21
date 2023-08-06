@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 🙂, I'm Aman Verma</h1>
-<h3 align="center">Pre-Final Year UG Student @ IIIT Surat</h3>
+<h3 align="center">Final Year UG Student @ IIIT Surat</h3>
 
 <h4 align="center"> Having knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices.</h4>
 

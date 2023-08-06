@@ -26,7 +26,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&labelColor=ffffff)
-
+![Nestjs](https://img.shields.io/badge/-Nestjs-000000?style=flat&logo=nestjs&labelColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&labelColor=ffffff)
 
 
 ## 🏆 Github Stats
